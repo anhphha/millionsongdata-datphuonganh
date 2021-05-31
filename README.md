@@ -9,3 +9,5 @@ The project is about:
 - To visualize the main dataset features + key importance features from the subset of 500k songs and the full set of million songs
 - To predict song popularity, the song's mode, released year
 - To recommend songs and artists from available dataset classification
+
+Final grade for the team project: 4.0/5.0
