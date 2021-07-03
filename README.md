@@ -6,7 +6,7 @@ Team member: Dat Nguyen, Phuong Nguyen, Anh Ha
 
 The project is about:
 - To explore the Million Song Dataset at http://millionsongdataset.com
-- To visualize the main dataset features + key importance features from the subset of 500k songs and the full set of million songs. Also make the comparision from two exploration
+- To visualize the main dataset features + key importance features from the subset of 10k songs and the full set of million songs. Also make the comparision from two exploration
 - To predict song popularity, the song's mode, released year
 - To recommend songs and artists from available dataset classification
 
